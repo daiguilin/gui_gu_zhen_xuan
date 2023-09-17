@@ -8,6 +8,8 @@
 </template>
 <script setup lang="ts">
 import { Edit } from '@element-plus/icons-vue'
+console.log('import.meta.env',import.meta.env);
+
 </script>
 
 <style scoped></style>
